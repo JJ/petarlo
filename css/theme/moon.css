@@ -53,10 +53,10 @@ body {
 
 .reveal h1 {
     font-family: "Nova Round", Arial, sans-serif;
-    font-size: 3em; }
+    font-size: 4em; }
 
 .reveal h2 {
-  font-size: 2.11em; }
+  font-size: 2.5em; }
 
 .reveal h3 {
   font-size: 1.55em; }
@@ -154,7 +154,7 @@ body {
   box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3); }
 
 .reveal code {
-  font-family: monospace; }
+  font-family: "Nova Mono"; }
 
 .reveal pre code {
   display: block;
