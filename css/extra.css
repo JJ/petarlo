@@ -6,14 +6,14 @@ section[data-background] h1 {
 }
 
 section[data-background] h2 { 
-       background-color:rgba(180,180,180,0.7);
+       background-color:rgba(140,140,140,0.7);
        padding: 30px;
        margin: 15px;
        border-radius: 20px
 }
 
 section[data-background] h3 { 
-       background-color:rgba(200,200,200,0.7);
+       background-color:rgba(100,100,100,0.7);
        padding: 20px;
        margin: 10px;
        border-radius: 15px
